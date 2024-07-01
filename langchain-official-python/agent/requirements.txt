@@ -2,3 +2,10 @@
  langchain-chroma 
  langchain-openai
  python-dotenv
+ langchain_anthropic
+ langchain_community
+ langchain_core
+ langgraph
+ tavily-python
+
+
