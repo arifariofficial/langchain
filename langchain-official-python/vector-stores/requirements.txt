@@ -1,0 +1,3 @@
+ langchain 
+ langchain-chroma 
+ langchain-openai
