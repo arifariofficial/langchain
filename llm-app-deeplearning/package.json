@@ -10,8 +10,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@langchain/community": "^0.2.17",
+    "@langchain/core": "^0.2.14",
     "dotenv": "^16.4.5",
+    "ignore": "^5.3.1",
     "langchain": "^0.2.8",
+    "pdf-parse": "^1.1.1",
     "punycode": "^2.3.1"
   }
 }
