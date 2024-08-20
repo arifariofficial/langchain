@@ -1,0 +1,32 @@
+[tool.poetry]
+name = "code-with-brandon-masterclass"
+version = "0.1.0"
+description = ""
+authors = ["Ariful Islam <ariful6@yahoo.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+langchain-openai = "^0.1.22"
+python-dotenv = "^1.0.1"
+langchain = "^0.2.14"
+langchain-community = "^0.2.12"
+langchain-anthropic = "^0.1.23"
+langchain-google-genai = "^1.0.9"
+langchain-google-firestore = "^0.3.0"
+firestore = "^0.0.8"
+chromadb = "^0.5.5"
+tiktoken = "^0.7.0"
+bs4 = "^0.0.2"
+firecrawl-py = "^0.0.20"
+langchainhub = "^0.1.21"
+wikipedia = "^1.4.0"
+tavily-python = "^0.4.0"
+torch = {version = "^2.4.0", platform = "darwin_arm64"}
+sentence-transformers = {version = "^3.0.1", platform = "darwin_arm64"}
+
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
